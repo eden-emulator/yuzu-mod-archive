@@ -1,8 +1,8 @@
 ### **Usage**
-For info on how to use mods, refer to the [Game Modding page](https://yuzu-emu.org/help/feature/game-modding/).
+For info on how to use mods, refer to the [Game Modding page](https://yuzu-mirror.github.io/help/feature/game-modding/).
 
-If you're looking for an automated process to install these mods, you can try the [Yuzu Mod Downloader](https://github.com/amakvana/YuzuModDownloader/releases/latest) by [amakvana.](https://github.com/amakvana)
-> **DISCLAIMER:** This is not an official mod downloader from yuzu team, so we cannot guarantee support for it in our Discord server or support forums. For any issues with this program, contact its developer through the [mod downloader's GitHub repository.](https://github.com/amakvana/YuzuModDownloader)
+If you're looking for an automated process to install these mods, you can try the [SwitchEmu Mod Downloader](https://github.com/amakvana/SwitchEmuModDownloader/releases/latest) by [amakvana.](https://github.com/amakvana)
+> **DISCLAIMER:** This is not an official mod downloader from the Eden team, so we cannot guarantee support for it in our Discord server or support forums. For any issues with this program, contact its developer through the [mod downloader's GitHub repository.](https://github.com/amakvana/YuzuModDownloader)
 
 ---
 
